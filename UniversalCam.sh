@@ -4,7 +4,7 @@
 #   Universal Cam Config Plugin Installer (Updated)
 # ------------------------------
 
-PLUGIN_NAME="Universal Cam Config"
+PLUGIN_NAME="UniversalCamConfig"
 PLUGIN_VERSION="2.1"
 
 clear
@@ -22,7 +22,7 @@ echo "└───────────────────────�
 echo ""
 
 # === Configuration ===
-ZIP_PATH="/tmp/Universal Cam Config.zip"
+ZIP_PATH="/tmp/Universal Cam Config.tar.gz"
 EXTRACT_DIR="/tmp/Universal Cam Config"
 INSTALL_DIR="/usr/lib/enigma2/python/Plugins/Extensions"
 
